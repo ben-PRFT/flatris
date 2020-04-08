@@ -9,7 +9,7 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '5dd19ca7-4410-4416-bd9d-d1212e31d00d'
+  azureSubscription: 'Free Trial (5dd19ca7-4410-4416-bd9d-d1212e31d00d)'
   
   # Web app name
   webAppName: 'flatris-game'
